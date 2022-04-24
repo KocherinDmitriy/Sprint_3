@@ -1,4 +1,4 @@
-// импортируем RestAssured
+package api;// импортируем RestAssured
 import io.restassured.RestAssured;
 // импортируем Response
 import io.restassured.response.Response;
